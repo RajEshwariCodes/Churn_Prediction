@@ -27,8 +27,8 @@ Follow the steps below to replicate or explore this project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Bank-Customer-Churn-Project.git
-   cd Bank-Customer-Churn-Project
+   git clone [https://github.com/RajEshwariCodes/Churn_Prediction/tree/main](https://github.com/RajEshwariCodes/Churn_Prediction/tree/main)
+   cd Churn_Prediction
    ```
 
 2. **Exploratory Data Analysis:**
