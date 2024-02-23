@@ -44,6 +44,4 @@ Follow the steps below to replicate or explore this project:
 
 - List any external libraries, frameworks, or tools needed to run the project.
 
-## Contributors
 
-- [Your Name](https://github.com/YourUsername) - Role (e.g., Data Analyst, Data Scientist)
